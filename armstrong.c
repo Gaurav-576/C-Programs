@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#iclude<string.h>
+#include<string.h>
 
 int armstrong(int n) {
     int temp,rem=0,cube=1,sum=0,count=0,bokachoda=n;
