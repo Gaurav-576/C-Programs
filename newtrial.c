@@ -52,7 +52,7 @@ int main () {
  * @input C : Integer
  * 
  * @Output Integer
- /*
+ /*x
 int solve(int* A, int n1, int B, int C) {
     scanf("%d",&n1);
     int i=0;
