@@ -1,10 +1,6 @@
-#include<stdio.h>
-#include<string.h>
-
-int main() {
-    char str1[] = "Heloo";
-    char str2[] = "Helao";
-    int val = strcmp(str1,str2);
-    printf("%d",val);
-    return 0;
-}
+nt main {
+//     int *A, *B,C,n1=3,n2=4,res;
+//     res=solve(A,n1,B,n2,C);
+//     printf("%d",res);
+//     return 0;
+// }
